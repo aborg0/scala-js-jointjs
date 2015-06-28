@@ -1,0 +1,3 @@
+Started the work based on [path.scala.js](https://github.com/andreaferretti/paths-scala-js) and the [DefinitelyTyped] [typescript](https://github.com/borisyankov/DefinitelyTyped/tree/master/jointjs) ([0.9.3](https://github.com/borisyankov/DefinitelyTyped/blob/d15416da9d5489861d4b2488fcac97a52916f304/jointjs/jointjs.d.ts)) for [JointJS](https://github.com/clientIO/joint) [0.9.3](https://github.com/clientIO/joint/tree/v0.9.3) using [Importer from TypeScript type definitions to Scala.js](https://github.com/sjrd/scala-js-ts-importer).
+
+https://github.com/d6y/wootjs/blob/master/build.sbt was also used as inspiration.
