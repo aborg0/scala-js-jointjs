@@ -11,7 +11,7 @@ name := "scala-js-jointjs"
 
 version := "0.0.00903"
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.11.7"
 
 persistLauncher in Compile := true
 
